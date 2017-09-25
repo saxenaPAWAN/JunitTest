@@ -10,7 +10,7 @@ public class testAddStr {
 	public void test() {
 		JunitTest junit1 =new JunitTest();
 		String re=junit1.addStr("Pawan ","Saxena");
-		assertEquals("PawanSaxena",re);
+		assertEquals("Pawan Saxena",re);
 
 	}
 
